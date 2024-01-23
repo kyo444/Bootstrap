@@ -46,10 +46,10 @@
 "It seems that you have the Filza app installed, which may be detected as jailbroken. You can enable Tweak for it to hide it." = "탈옥 감지 가능성이 있는 Filza 앱이 설치된 것으로 보입니다. 트윅 활성화를 통해 앱을 숨길 수 있습니다";
 
 "Status: Rebuilding Apps" = "상태: 앱 재구축 중";
-"Status: Reinstalling Sileo" = "상태 : Sileo 재설치 중";
-"Status: Reinstalling Zebra" = "상태 : Zebra 재설치 중";
+"Status: Reinstalling Sileo" = "상태: Sileo 재설치 중";
+"Status: Reinstalling Zebra" = "상태: Zebra 재설치 중";
 "Sileo and Zebra reinstalled!" = "Sileo와 Zebra 재설치됨!";
-"Status: Rebuilding Icon Cache" = "상태 : 아이콘 캐시 재구축 중";
+"Status: Rebuilding Icon Cache" = "상태: 아이콘 캐시 재구축 중";
 
 "openssh package is not installed" = "OpenSSH 패키지가 설치되지 않았습니다";
 
